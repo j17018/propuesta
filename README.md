@@ -3,8 +3,6 @@
 ![Alt text](assets/images/cover1.png)
 ![Alt text](assets/images/cover2.png)
 
-A new Flutter project.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
